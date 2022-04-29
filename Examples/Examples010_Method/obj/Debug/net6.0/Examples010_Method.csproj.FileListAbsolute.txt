@@ -1,0 +1,15 @@
+K:\C#Lekcia1\Examples\Examples010_Method\bin\Debug\net6.0\Examples010_Method.exe
+K:\C#Lekcia1\Examples\Examples010_Method\bin\Debug\net6.0\Examples010_Method.deps.json
+K:\C#Lekcia1\Examples\Examples010_Method\bin\Debug\net6.0\Examples010_Method.runtimeconfig.json
+K:\C#Lekcia1\Examples\Examples010_Method\bin\Debug\net6.0\Examples010_Method.dll
+K:\C#Lekcia1\Examples\Examples010_Method\bin\Debug\net6.0\Examples010_Method.pdb
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.csproj.AssemblyReference.cache
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.AssemblyInfoInputs.cache
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.AssemblyInfo.cs
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.csproj.CoreCompileInputs.cache
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.dll
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\refint\Examples010_Method.dll
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.pdb
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\Examples010_Method.genruntimeconfig.cache
+K:\C#Lekcia1\Examples\Examples010_Method\obj\Debug\net6.0\ref\Examples010_Method.dll

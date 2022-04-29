@@ -1,0 +1,15 @@
+K:\C#Lekcia1\Examples\Examples008\bin\Debug\net6.0\Examples008.exe
+K:\C#Lekcia1\Examples\Examples008\bin\Debug\net6.0\Examples008.deps.json
+K:\C#Lekcia1\Examples\Examples008\bin\Debug\net6.0\Examples008.runtimeconfig.json
+K:\C#Lekcia1\Examples\Examples008\bin\Debug\net6.0\Examples008.dll
+K:\C#Lekcia1\Examples\Examples008\bin\Debug\net6.0\Examples008.pdb
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.csproj.AssemblyReference.cache
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.AssemblyInfoInputs.cache
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.AssemblyInfo.cs
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.csproj.CoreCompileInputs.cache
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.dll
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\refint\Examples008.dll
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.pdb
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\Examples008.genruntimeconfig.cache
+K:\C#Lekcia1\Examples\Examples008\obj\Debug\net6.0\ref\Examples008.dll

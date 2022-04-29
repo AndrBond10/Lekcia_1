@@ -1,0 +1,5 @@
+K:\C#Lekcia1\Examples\Examples011_Array\obj\Debug\net6.0\Examples011_Array.csproj.AssemblyReference.cache
+K:\C#Lekcia1\Examples\Examples011_Array\obj\Debug\net6.0\Examples011_Array.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#Lekcia1\Examples\Examples011_Array\obj\Debug\net6.0\Examples011_Array.AssemblyInfoInputs.cache
+K:\C#Lekcia1\Examples\Examples011_Array\obj\Debug\net6.0\Examples011_Array.AssemblyInfo.cs
+K:\C#Lekcia1\Examples\Examples011_Array\obj\Debug\net6.0\Examples011_Array.csproj.CoreCompileInputs.cache

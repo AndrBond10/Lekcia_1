@@ -1,0 +1,15 @@
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.AssemblyReference.cache
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfoInputs.cache
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.AssemblyInfo.cs
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.csproj.CoreCompileInputs.cache
+K:\C#Lekcia1\Examples\Examples009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.exe
+K:\C#Lekcia1\Examples\Examples009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.deps.json
+K:\C#Lekcia1\Examples\Examples009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.runtimeconfig.json
+K:\C#Lekcia1\Examples\Examples009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.dll
+K:\C#Lekcia1\Examples\Examples009_IntroArray\bin\Debug\net6.0\Example009_IntroArray.pdb
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.dll
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\refint\Example009_IntroArray.dll
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.pdb
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\Example009_IntroArray.genruntimeconfig.cache
+K:\C#Lekcia1\Examples\Examples009_IntroArray\obj\Debug\net6.0\ref\Example009_IntroArray.dll
